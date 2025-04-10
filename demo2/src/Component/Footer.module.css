@@ -1,0 +1,7 @@
+.parent{
+    background-color: red;
+    padding:5px ;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}

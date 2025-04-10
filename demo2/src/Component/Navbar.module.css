@@ -1,0 +1,9 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: rgb(218, 211, 34);
+    padding: 15px 20px;
+    border-radius: 10px;
+}
